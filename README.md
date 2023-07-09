@@ -1,2 +1,2 @@
 # SampleHub
-This repository is leaning purpose
+This repository is leaning purpose for beings
